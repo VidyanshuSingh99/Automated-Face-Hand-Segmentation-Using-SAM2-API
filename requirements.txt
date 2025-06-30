@@ -1,0 +1,9 @@
+opencv-python
+numpy
+matplotlib
+streamlit
+Pillow
+mediapipe
+ultralytics==8.0.204
+requests
+python-dotenv
