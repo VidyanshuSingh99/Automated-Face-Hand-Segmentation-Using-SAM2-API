@@ -3,8 +3,11 @@ This allows users to upload an image and instantly obtain segmented masks for fa
 
 # Features 
 Upload any image and get segmented face and hand.
+
 Uses SAM2 via Replicate API.
+
 Includes YOLOv8n for object detection.
+
 Streamlit based UI interface for user friendly interface.
 
 
